@@ -7,3 +7,7 @@ gameid = minetest
 world_name = jose_gold_hunter
 load_mod_protector = true
 load_mod_gold_hunter = true
+server_announce = true
+
+
+
